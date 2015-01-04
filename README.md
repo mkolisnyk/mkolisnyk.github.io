@@ -17,16 +17,23 @@ Projects
 
 About The Author
 -----------
-
-**Name** : Mykola Kolisnyk
-
-**Current Location** : <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/GB.png" title="United Kingdom" />
-
-**Originally From** : <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/UA.png" title="Ukraine" />
-
-**Specialization** : Software Test Automation (Functional and Non-Functional)
-
-**Main Programming Languages In Use** :  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby.png" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> 
+<table>
+<tr>
+<th>Name</th><td> Mykola Kolisnyk </td>
+</tr>
+<tr>
+<th>Current Location</th><td><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/GB.png" title="United Kingdom" /> </td>
+</tr>
+<tr>
+<th>Originally From</th><td><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/UA.png" title="Ukraine" /> </td>
+</tr>
+<tr>
+<th>Specialization</th><td>Software Test Automation (Functional and Non-Functional) </td>
+</tr>
+<tr>
+<th>Main Programming Languages In Use</th><td> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby.png" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" />  </td>
+</tr>
+<table>
 
 **Additional Resources:**
 
