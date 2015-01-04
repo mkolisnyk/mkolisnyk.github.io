@@ -31,6 +31,17 @@ About The Author
 <th>Specialization</th><td>Software Test Automation (Functional and Non-Functional) </td>
 </tr>
 <tr>
+<th>Areas of Interest</th>
+<td>
+<ul>
+<li> Test Automation Frameworks and Engines
+<li> Test Automation Types and Approaches
+<li> Executable Requirements
+<li> Software Development and Infrastructure Integration
+</ul>
+</td>
+</tr>
+<tr>
 <th>Main Programming Languages In Use</th><td> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby.png" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" />  </td>
 </tr>
 <table>
