@@ -16,8 +16,10 @@ Projects
 About The Author
 -----------
 
-| !["Blogspot"](https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/blogger-logo-small.png "Blogspot") |  !["LinkedIn"](https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/linkedin-n-logo.png "LinkedIn") |  !["GitHub"](https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/github-logo.png "GitHub") | !["E-mail"](https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/gmail-logo.png "E-mail") |
-| [Blog: Test Automation From inside](http://mkolisnyk.blogspot.com) | [LinkedIn Profile](http://www.linkedin.com/pub/mykola-kolisnyk/14/533/903) | [GitHub Project](https://github.com/mkolisnyk) | [GitHub Project](https://github.com/mkolisnyk) | [E-mail](mailto://kolesnik.nickolay@gmail.com) |
+|  Blog  | LinkedIn  | GitHub | E-mail  |
+| -------------- | ------------- | ------------ | ------------- |
+| <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/blogger-logo-small.png" width="128" /> |  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/linkedin-n-logo.png" width="128" /> |  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/github-logo.png" width="128" /> | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/gmail-logo.png" width="128" /> |
+| [Blog: Test Automation From inside](http://mkolisnyk.blogspot.com) | [LinkedIn Profile](http://www.linkedin.com/pub/mykola-kolisnyk/14/533/903) | [GitHub Project](https://github.com/mkolisnyk) | [E-mail](mailto://kolesnik.nickolay@gmail.com) |
 
 Additional References
 ---------------------
