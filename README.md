@@ -9,11 +9,11 @@ This is main documentation page for the [Mykola Kolisnyk GitHub project](https:/
 Projects
 -----------
 
-| Logo | Project Name | Description | Technologies |
-| ---- | ------------ | ----------- | ---------- |
-| ![Sirius](https://raw.githubusercontent.com/mkolisnyk/Sirius/gh-pages/img/SiriusLogoSmall.png "Sirius") | [Sirius](http://mkolisnyk.github.io/Sirius/) | Distributed Functional Test Automation Platform | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby-logo4.jpg" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> |
-| ![Aerial](https://raw.githubusercontent.com/mkolisnyk/aerial/gh-pages/img/AerialLogoSmall2.png "Aerial") | [Aerial](http://mkolisnyk.github.io/aerial/) | Executable Requirements Generation Engine | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> |
-| ![Muto](https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/MutoLogoSmall.png "Muto") | [Muto](http://mkolisnyk.github.io/muto/) | Mutation Testing Framework | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> |
+| Project | Description | Technologies |
+| ------------ | ----------- | ---------- |
+| <a href="http://mkolisnyk.github.io/Sirius/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/Sirius/gh-pages/img/SiriusLogoSmall.png" title="Sirius" /></a> | Distributed Functional Test Automation Platform | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby-logo4.jpg" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> |
+| <a href="http://mkolisnyk.github.io/aerial/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/aerial/gh-pages/img/AerialLogoSmall2.png" title="Aerial" /></a> | Executable Requirements Generation Engine | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> |
+| <a href="http://mkolisnyk.github.io/muto/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/MutoLogoSmall.png" title="Muto" /></a> | Mutation Testing Framework | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> |
 
 About The Author
 -----------
@@ -28,11 +28,15 @@ About The Author
 
 **Main Programming Languages In Use** :  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby-logo4.jpg" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> 
 
+**Additional Resources:**
 
 |  Blog  | LinkedIn  | GitHub | E-mail  |
 | -------------- | ------------- | ------------ | ------------- |
-| <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/blogger-logo-small.png" width="128" /> |  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/linkedin-n-logo.png" width="128" /> |  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/github-logo.png" width="128" /> | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/gmail-logo.png" width="128" /> |
-| [Personal Blog](http://mkolisnyk.blogspot.com) | [LinkedIn Profile](http://www.linkedin.com/pub/mykola-kolisnyk/14/533/903) | [GitHub Project](https://github.com/mkolisnyk) | [E-mail](mailto://kolesnik.nickolay@gmail.com) |
+| <a href="http://mkolisnyk.blogspot.com" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/blogger-logo-small.png" width="128" /></a> |  <a href="http://www.linkedin.com/pub/mykola-kolisnyk/14/533/903" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/linkedin-n-logo.png" width="128" /></a> |  <a href="https://github.com/mkolisnyk" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/github-logo.png" width="128" /></a> | <a href="mailto://kolesnik.nickolay@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/gmail-logo.png" width="128" /></a> |
+
+| SlideShare | YouTube | Google+ |
+| ---------- | ------- | ------- |
+| <a href="http://www.slideshare.net/kolesnik_nickolay" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Slideshare-icon.png" width="128" /></a> | <a href="https://www.youtube.com/c/KolesnikNickolay" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/YouTube-logo-full_color.png" width="128" ></a> | <a href="https://plus.google.com/+KolesnikNickolay/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/g+128.png" width="128" /></a> |
 
 Additional References
 ---------------------
