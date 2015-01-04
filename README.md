@@ -11,9 +11,9 @@ Projects
 
 | Project | Description | Technologies |
 | ------------ | ----------- | ---------- |
-| <a href="http://mkolisnyk.github.io/Sirius/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/Sirius/gh-pages/img/SiriusLogoSmall.png" title="Sirius" /></a> | Distributed Functional Test Automation Platform | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby-logo4.jpg" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> |
-| <a href="http://mkolisnyk.github.io/aerial/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/aerial/gh-pages/img/AerialLogoSmall2.png" title="Aerial" /></a> | Executable Requirements Generation Engine | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> |
-| <a href="http://mkolisnyk.github.io/muto/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/MutoLogoSmall.png" title="Muto" /></a> | Mutation Testing Framework | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> |
+| <a href="http://mkolisnyk.github.io/Sirius/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/Sirius/gh-pages/img/SiriusLogoSmall.png" title="Sirius" /></a> | Distributed Functional Test Automation Platform | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby.png" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> |
+| <a href="http://mkolisnyk.github.io/aerial/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/aerial/gh-pages/img/AerialLogoSmall2.png" title="Aerial" /></a> | Executable Requirements Generation Engine | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> |
+| <a href="http://mkolisnyk.github.io/muto/" target="_blank"><img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/MutoLogoSmall.png" title="Muto" /></a> | Mutation Testing Framework | <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> |
 
 About The Author
 -----------
@@ -26,7 +26,7 @@ About The Author
 
 **Specialization** : Software Test Automation (Functional and Non-Functional)
 
-**Main Programming Languages In Use** :  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/java_logo1.jpg" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby-logo4.jpg" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> 
+**Main Programming Languages In Use** :  <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby.png" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" /> 
 
 **Additional Resources:**
 
