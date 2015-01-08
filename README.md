@@ -44,6 +44,9 @@ About The Author
 <tr>
 <th>Main Programming Languages In Use</th><td> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/Apps-Java-icon.png" title="Java"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/ruby.png" title="Ruby"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/csharp_logo.png" title="C#"  width="64" />  </td>
 </tr>
+<tr>
+<th>Additional Programming Languages In Use</th><td> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/javascript-icon.png" title="JavaScript"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/php-logo.png" title="PHP"  width="64" /> <img src="https://raw.githubusercontent.com/mkolisnyk/mkolisnyk.github.io/master/images/icons/sql-logo.png" title="SQL"  width="64" />  </td>
+</tr>
 <table>
 
 **Additional Resources:**
